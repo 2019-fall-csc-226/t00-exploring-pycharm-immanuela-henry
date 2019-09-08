@@ -39,4 +39,4 @@ else:
 print(str(num_boxes) + " boxes\nwith " + str(num_lbs) + " lbs of chocolate per box\nis" + " " + str(oz_choc) + " ounces of chocolate.\n" )
 print("Studies have shown there are health benefits from eating 1.5 to 3 ounces of dark chocolate daily!")
 
-# To run this code, hit the green run button.
+# To run this code, hit the green run button
